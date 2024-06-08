@@ -28,7 +28,6 @@ in `evaluation/completion.py`. And then run it, the results will be recorded in 
 
 
 ## Results of throughput of individual LCMs
-Sure, here is the table transcribed into Markdown format:
 
 |       | SC-3B  | SC-7B   | SC-15B  | CL-7B   | CL-13B  | CL-34B  | DSC-1.3B | DSC-6.7B | DSC-33B | AVG          |
 |-------|--------|---------|---------|---------|---------|---------|----------|----------|---------|--------------|
