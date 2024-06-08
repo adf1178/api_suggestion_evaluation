@@ -1,0 +1,20 @@
+TYPE: when
+
+# whether use comment
+USE_COMMENT: True
+
+# whether use file context
+USE_FILE_CONTEXT: True
+
+# if use file context, how many lines before
+LINE_BEFORE: 10
+
+# whether use import message
+USE_IMPORT_MESSAGE: True
+
+# whether fill in the middle (use right context)
+FILL_IN_THE_MIDDLE: False
+
+USE_LIBRARY_CANDIDATE: True
+
+SAVE_FILE_NAME: when_to_use_file10_LC_comment_import
