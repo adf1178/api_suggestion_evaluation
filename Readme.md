@@ -8,6 +8,11 @@ Note that generate_benchmark.py can only generate benchmark items for `how` and 
 
 There are two types in `how to use`: we use type2 in our paper: For instance, given `Assert.NotNull` and expect  `(uid)`. For type1:  given `Assert.NotNull(` and expect  `uid)`, this is not suitable for LCMs because the tokenizer may have some problems.
 
+## Which to use data
+
+The which to use data can be generated from the when to use data by adding the parent library.
+
+
 # Evaluation
 
 After generating benchmark item with some contexts: such as `when_to_use_file10_comment_import.json`, put it into `evaluation/data`.
